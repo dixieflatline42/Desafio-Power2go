@@ -33,7 +33,7 @@ O projeto tem como objetivo monitorar a temperatura e umidade usando um sensor D
 
 - **Leitura de Sensor DHT22**: O ESP32 lê a temperatura e umidade do sensor DHT22 e publica esses dados via MQTT no tópico `temp-led-data`.
 - **Controle de LED RGB**: O LED pode ser controlado manualmente por um botão ou remotamente via comandos MQTT no tópico `led-state-control`.
-- **Interação via Botão**: O botão pode ligar/desligar o LED ou alterar seu modo de operação.
+- **Interação via Botão**: O botão pode alterar seu modo de operação.
 - **Publicação MQTT**: Dados de temperatura, umidade e estado do LED são publicados periodicamente via MQTT.
 - **Comandos MQTT**: O ESP32 responde a comandos MQTT para controlar o estado do LED (ligar, desligar, alterar cor e tempo de piscagem).
 
