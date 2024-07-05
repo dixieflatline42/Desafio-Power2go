@@ -12,10 +12,10 @@ O projeto tem como objetivo monitorar a temperatura e umidade usando um sensor D
 
 ### Passos para Configurar o Cliente MQTT
 
-1. Acesse a URL abaixo e clique no botão conectar
+1. Acesse a URL abaixo para simular o projeto:
    [Simulador Online Wokwi]([http://www.hivemq.com/demos/websocket-client/](https://wokwi.com/projects/402577585675949057))
   
-2. 1. Acesse a URL abaixo e clique no botão conectar:
+2.  Acesse a URL abaixo e clique no botão conectar:
    [HiveMQ WebSocket Client](http://www.hivemq.com/demos/websocket-client/)
 
 3. Adicione os tópicos de assinatura, um para cada tópico que o ESP32 utiliza:
