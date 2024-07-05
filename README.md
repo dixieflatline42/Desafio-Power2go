@@ -10,7 +10,7 @@ O projeto tem como objetivo monitorar a temperatura e umidade usando um sensor D
 
 ## Como Utilizar
 
-### Passos para Configurar o Cliente MQTT
+### Passos para Configurar o projeto
 
 1. Acesse a URL abaixo para simular o projeto:
    [Simulador Online Wokwi](https://wokwi.com/projects/402577585675949057)
